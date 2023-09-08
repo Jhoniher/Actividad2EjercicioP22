@@ -1,3 +1,4 @@
+//Calculo de salario
 import java.util.Scanner;
 public class EjercicioPropuesto22 {
     public static void main(String[] args) {
